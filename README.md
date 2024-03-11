@@ -15,4 +15,4 @@ Utilize the CTransformers library to implement the Lama 2 model for generating b
 
 
 
-![Uploading 2024-02-14 034604.png…]()
+
