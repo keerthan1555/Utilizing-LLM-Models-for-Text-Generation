@@ -16,3 +16,4 @@ Utilize the CTransformers library to implement the Lama 2 model for generating b
 
 
 
+https://github.com/keerthan1555/Utilizing-LLM-Models-for-Text-Generation/blob/main/Utilizing%20LLM%20Models%20for%20Text%20Generation.png
